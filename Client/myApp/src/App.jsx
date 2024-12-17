@@ -31,6 +31,7 @@ function App() {
     // </>
 
     <>
+    <h1>Kontol</h1>
       <div class='container'>
         <h1>Pendaftaran</h1>
         <div>
